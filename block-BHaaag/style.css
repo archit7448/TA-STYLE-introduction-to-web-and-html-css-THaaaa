@@ -1,0 +1,29 @@
+body{
+    background-color: dodgerblue;
+}
+h1{
+    color: #000;
+    font-size: 60px;
+}
+p{
+   color: #000;
+   font-size:25px; 
+}
+h2{
+    font-size: 45px;
+    color:rebeccapurple;
+}
+h3{
+    font-size: 35px;
+    color: whitesmoke;
+}
+h4{
+    font-size: 25px;
+    color:whitesmoke;
+}
+#unique{
+    color: red;
+}
+
+
+
